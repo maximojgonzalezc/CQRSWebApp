@@ -1,0 +1,12 @@
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\refint\DemoLibrary.dll
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
+C:\Users\Mcseemo\source\repos\IntroToMediatR\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
